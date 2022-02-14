@@ -1,6 +1,6 @@
 # Valentine with Python 
 
-`Valentines with Python` is a mini fun project I have coded. If you’re a programmer, you can surprise your valentine with this awesome and fun project. This program generates an animation of a heart with cool texts of your loved one. It also generates the `.png` and `.gif` files of the animation. The piece is coded in python and uses some of the important python libraries. The following libraries are required to be installed to run this project. 
+`Valentines with Python` is a mini fun project I have coded. If you’re a programmer, you can surprise your valentine with this awesome and fun project. This program generates an animation of a heart with cool texts of your loved one. It also generates the `.png` and `.gif` files of the animation. Please follow the below steps for proper installation.
 
 ![alt text](https://media.giphy.com/media/lNjhdOH4gwVGlDwH8Y/giphy.gif)
 
